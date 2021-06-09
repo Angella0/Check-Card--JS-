@@ -1,13 +1,12 @@
 .login{
     
-        height: 800%;
-        width: 60%;
-        
+        height: 400px;
+        width: 26%;
         text-align: center;
         background-color:linen;
         border-radius: 4rem;
         justify-content: end;
-        margin-left: 500;
+        margin-left: 400px;
         display: flex;
 }
 
@@ -20,8 +19,9 @@ input {
     margin: 10px;
     padding: 10px;
     box-shadow: 4px 4px 10px black;
-    border-radius: 9px;
+    border-radius: 4px;
     font-size: 23px;
+    text-align: center;
 }
 button {
     font-weight: bolder;
@@ -32,4 +32,5 @@ button {
     box-shadow: 4px 4px 10px black;
     border-radius: 9px;
     font-size: 25px;
+    text-align: center;
 }
